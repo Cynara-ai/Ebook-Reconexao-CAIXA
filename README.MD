@@ -40,8 +40,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Me sugira alguns nomes para esse programa ser implementando na CAIXA econômica federal. Ex CAIXA + Forte                                                         |
-| conteúdo | Me ajude a criar um projeto para apresentar ao RH da empresa. 
-O objetivo é ter um plano de apoio aos funcionários afastados por burnout. Quando tratar do retorno, tome cuidado para no plano incluir o funcionário em uma atividade diferente da que exercia. E gradualmente faça o retorno para a função que exerce ou que ele tenha perspectivas de se recolocar em outras áreas da empresa   |
+| conteúdo | Me ajude a criar um projeto para apresentar ao RH da empresa. O objetivo é ter um plano de apoio aos funcionários afastados por burnout. Quando tratar do retorno, tome cuidado para no plano incluir o funcionário em uma atividade diferente da que exercia. E gradualmente faça o retorno para a função que exerce ou que ele tenha perspectivas de se recolocar em outras áreas da empresa   |
 
 
 Canva：
